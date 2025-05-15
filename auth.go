@@ -202,7 +202,7 @@ func VerifyAuthToken(tokenString string, target AuthPayload, opts ...VerifyOptio
 	if err != nil {
 		return false, fmt.Errorf("failed to decode original public key: %w", err)
 	}
-	originalSignerPubKeyToVerify, err := ec.PublicKeyFromBytes(originalSignerPubKeyFromTokenBytes)
+	originalSignerPubKeyToVerify, err := ec.ParsePubKey(originalSignerPubKeyFromTokenBytes)
 	if err != nil {
 		return false, fmt.Errorf("failed to parse original public key: %w", err)
 	}
