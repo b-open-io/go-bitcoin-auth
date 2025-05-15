@@ -10,7 +10,7 @@ import (
 
 	"github.com/bsv-blockchain/go-sdk/message"
 	ec "github.com/bsv-blockchain/go-sdk/primitives/ec"
-	// bsm_compat "github.com/bsv-blockchain/go-sdk/compat/bsm" // No longer needed for the removed check
+	// bsm_compat "github.com/b-open-io/go-sdk/compat/bsm" // No longer needed for the removed check
 )
 
 // testWIF is a common private key WIF for testing.

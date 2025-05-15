@@ -1,5 +1,5 @@
-github.com/b-open-io/go-sdk v1.1.25-0.20250514205758-a0c215bb2eaa h1:u9DWXOTMjD+hPa2AOAyGVFfYZ2s8ZuLfgug5Puuit8M=
-github.com/b-open-io/go-sdk v1.1.25-0.20250514205758-a0c215bb2eaa/go.mod h1:QdZvqgc69LQpnKUjejyUCFgbPeJcdJa0r6ptr4j7DCY=
+github.com/b-open-io/go-sdk v1.1.25-0.20250514235255-7e58f8dcb832 h1:VsCuJOcdlubCPS4LeHktxiN9whmukatRfgdkpA8+xEg=
+github.com/b-open-io/go-sdk v1.1.25-0.20250514235255-7e58f8dcb832/go.mod h1:8YTJF5LuTRzSYNPIdi5xv2FBwLjOytwzaYkXkJn/doI=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
